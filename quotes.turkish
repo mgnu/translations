@@ -5,7 +5,7 @@ TODO: "The idea of free software is that users of computing deserve freedom. The
 TODO: "In the US, you even lose legal rights if you store your data in a company's machines instead of your own. The police need to present you with a search warrant to get your data from you; but if they are stored in a company's server, the police can get it without showing you anything." - R.M.S.
 TODO: "In the U.S., you even lose legal rights if you store your data in a company's machines instead of your own. The police need to present you with a search warrant to get your data from you; but if they are stored in a company's server, the police can get it without showing you anything. They may not even have to give the company a search warrant." - R.M.S.
 TODO: "In essence, Chrome OS is the GNU/Linux operating system. However, it is delivered without the usual applications, and rigged up to impede and discourage installing applications." - R.M.S.
-TODO: "Proprietary software is an injustice." - R.M.S.
+REVIEW: "Özel mülk yazılım bir haksızlıktır." - R.M.S.
 TODO: "Android is a major step towards an ethical, user-controlled, free-software portable phone, but there is a long way to go." - R.M.S.
 TODO: "The idea of copyright did not exist in ancient times, when authors frequently copied other authors at length in works of non-fiction. This practice was useful, and is the only way many authors' works have survived even in part." - R.M.S.
 TODO: "There is nothing wrong with wanting pay for work, or seeking to maximize one's income, as long as one does not use means that are destructive." - R.M.S.
@@ -33,8 +33,8 @@ TODO: "I could have made money this way, and perhaps amused myself writing code.
 TODO: "If you want to accomplish something in the world, idealism is not enough - you need to choose a method that works to achieve the goal." - R.M.S.
 TODO: "One reason you should not use web applications to do your computing is that you lose control." - R.M.S.
 TODO: "The reason that a good citizen does not use such destructive means to become wealthier is that, if everyone did so, we would all become poorer from the mutual destructiveness." - R.M.S.
-TODO: "Facebook is not your friend, it is a surveillance engine." - R.M.S.
-TODO: "Sharing is good, and with digital technology, sharing is easy." - R.M.S.
-TODO: "Facebook mistreats its users. Facebook is not your friend; it is a surveillance engine. For instance, if you browse the Web and you see a 'like' button in some page or some other site that has been displayed from Facebook. Therefore, Facebook knows that your machine visited that page." - R.M.S.
+REVIEW: "Facebook arkadaşınız değil, bir gözetim motorudur." - R.M.S.
+REVIEW: "Paylaşmak faydalıdır, ve dijital teknoloji bunu kolay kılıyor." - R.M.S.
+REVIEW: "Facebook, kullanıcılarına kötü muamele ediyor. Facebook arkadaşınız değil, bir gözetim motorudur. Örneğin, Facebook aracılığıyla ziyaret ettiğiniz veya Facebook dışından ziyaret ettiğiniz ama içinde 'beğen' düğmesi olan her internet sitesi Facebook tarafından biliyor." - R.M.S.
 TODO: "Whether gods exist or not, there is no way to get absolute certainty about ethics. Without absolute certainty, what do we do? We do the best we can." - R.M.S.
 TODO: "Free software is software that respects your freedom and the social solidarity of your community. So it's free as in freedom." - R.M.S.
