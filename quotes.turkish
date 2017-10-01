@@ -3,12 +3,12 @@ REVIEW: "GNU/Linux sisteminin birçok kullanıcısı özgür yazılım fikirleri
 REVIEW: "GNU sisteminin geliştirmesini başlattığımda , bu sistemin geliştirilme amacını açıkça söyledim ki bilgisayarlarımızı kullanabilelim ve özgürlüğümüz olabilsin , bu nedenle bunun yerine başka bir özgür sistemi kullanırsanız ve özgürlüğünüz var ise , bu bir başarıdır. Kodumuza popülerlik kazandırmaz ama amacımız adına bir başarıdır." - R.M.S.
 REVIEW: "Özgür yazılım fikri kullanıcıların özgürlüğü haketmesinden ötürüdür. Bilgisayar kullanımlarında belirli bir hakimiyete sahip olmayı hakediyorlar.  Şahsi yazılımlar kullanıcıların bilgisayar kullanımları üzerinde hakimiyete sahip olmalarına engel olmaktadır." - R.M.S.
 REVIEW: "Amerika Birleşik Devletleri'nde , kendi makineniz yerine şirkete ait makinede kendi verilerinizi depolarsanız yasal haklarınızı bile kaybedersiniz. Polis sizden verinizi almak için size arama izniyle gelmelidir ; ama bu veri şirket bilgisayarındaysa , polis bu veriye size hiç bir şey göstermeden erişebilir. Şirkete bir arama izni belgesi vermek zorunda bile olmayabilirler." - R.M.S.
-TODO: "In essence, Chrome OS is the GNU/Linux operating system. However, it is delivered without the usual applications, and rigged up to impede and discourage installing applications." - R.M.S.
+REVIEW: "Chrome OS, özünde, GNU/Linux işletim sistemidir. Ancak, yanında alışılagelen uygulamalar yüklü olarak gelmiyor ve uygulamaları yüklemekten kullanıcıları vazgeçirecek şekilde tasarımı bozulmuş." - R.M.S.
 REVIEW: "Özel mülk yazılım bir haksızlıktır." - R.M.S.
-TODO: "Android is a major step towards an ethical, user-controlled, free-software portable phone, but there is a long way to go." - R.M.S.
-TODO: "The idea of copyright did not exist in ancient times, when authors frequently copied other authors at length in works of non-fiction. This practice was useful, and is the only way many authors' works have survived even in part." - R.M.S.
-TODO: "There is nothing wrong with wanting pay for work, or seeking to maximize one's income, as long as one does not use means that are destructive." - R.M.S.
-TODO: "Software patents are dangerous to software developers because they impose monopolies on software ideas." - R.M.S.
+REVIEW: "Android etik, kullanıcı tarafından kontrol edilen, özgür yazılımlı ve taşınabilir bir telefon için büyük bir adım, ancak hala gidecek çok yolumuz var." - R.M.S.
+REVIEW: "Kurgu olmayan yazılarında yazarların diğerlerini sıkça kopyaladığı antik çağlarda telif hakkı fikri yoktu. Bu kopyalama gerekliydi çünkü böyle olmasaydı birçok yazarın eserleri hayatta kalamazdı." - R.M.S.
+REVIEW: "Eğer bunu yıkıcı şekilde yapmıyorsa, birinin emeği karşılığında para istemesinde veya kazancını azami seviyeye çekmeye çalışmasında yanlış hiçbir şey yok." - R.M.S.
+REVIEW: "Yazılım patentleri yazılım geliştiriciler için tehlikelidir çünkü yazılım fikirlerinin tekeli olurlar." - R.M.S.
 TODO: "In the free/libre software movement, we develop software that respects users' freedom, so we and you can escape from software that doesn't." - R.M.S.
 TODO: "In practice, the copyright system does a bad job of supporting authors, aside from the most popular ones. Other authors' principal interest is to be better known, so sharing their work benefits them as well as readers." - R.M.S.
 TODO: "Fighting patents one by one will never eliminate the danger of software patents, any more than swatting mosquitoes will eliminate malaria." - R.M.S.
